@@ -1,0 +1,1 @@
+<img src="npc.svg" width="88" height="31">&nbsp;
